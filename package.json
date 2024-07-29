@@ -1,0 +1,15 @@
+{
+  "name": "minireact",
+  "version": "1.0.0",
+  "description": "首先 React 必须可少的就是 jsx 语法糖，jsx 会被 babel 或者 tsc 等编译器编译成 render function，也就是类似 React.createElement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
